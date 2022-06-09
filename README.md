@@ -27,6 +27,7 @@
 |1|2022-06-04|Collection Types|
 |2|2022-06-05|Properties(1)| 
 |3|2022-06-08|Properties(2)|
+|4|2022-06-09|Method|
 
 
 <a name="커밋컨벤션"></a>

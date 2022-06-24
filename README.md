@@ -37,6 +37,11 @@
 |11|2022-06-17|Structures and Classes(1)|
 |12|2022-06-18|Structures and Classes(2)|
 |13|2022-06-19|Initialization(1)|
+|14|2022-06-20|Initialization(2)|
+|15|2022-06-21|Initialization(3)|
+|16|2022-06-22|Initialization(4)|
+|17|2022-06-23|Initialization(5)|
+|18|2022-06-24|Initialization(6)|
 
 <a name="커밋컨벤션"></a>
 ## 🤓 커밋 컨벤션

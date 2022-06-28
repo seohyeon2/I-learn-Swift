@@ -44,6 +44,7 @@
 |18|2022-06-24|Initialization(6)|
 |18|2022-06-27|Initialization(7)|
 |18|2022-06-28|Deinitialization|
+|19|2022-06-29|Closures(1)|
 
 <a name="커밋컨벤션"></a>
 ## 🤓 커밋 컨벤션
